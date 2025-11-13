@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a56d29e8-a6d3-412b-bae1-b8d5754e9e9e" name="Changes" comment="dodan je Readme.md">
-      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/academy/CeliBrojevi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/academy/Char.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/academy/DecimalniBrojevi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a56d29e8-a6d3-412b-bae1-b8d5754e9e9e" name="Changes" comment="tipovi">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/CeliBrojevi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/Three/CeliBrojevi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Char.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/Three/Char.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/DecimalniBrojevi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/Three/DecimalniBrojevi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,33 +47,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Demo (1).executor": "Run",
-    "Application.Demo.executor": "Run",
-    "Application.Program.executor": "Run",
-    "Maven.core_java [clean,install].executor": "Run",
-    "Maven.core_java [compile].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Projects/core java/src/main/java/com/itakademija/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Demo (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Program.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.core_java [clean,install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.core_java [compile].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Projects/core java/src/main/java/com/itakademija/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.CeliBrojevi">
     <configuration name="CeliBrojevi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.academy.CeliBrojevi" />
+      <option name="MAIN_CLASS_NAME" value="com.academy.Three.CeliBrojevi" />
       <module name="core_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.academy.*" />
+          <option name="PATTERN" value="com.academy.Three.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,7 +94,7 @@
       <module name="core_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.academy.*" />
+          <option name="PATTERN" value="com.academy.Three.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762796715122</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="tipovi">
+      <option name="closed" value="true" />
+      <created>1763052263895</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1763052263896</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,7 +186,8 @@
     <MESSAGE value="dodatni setup .gitignore" />
     <MESSAGE value="Ignore .class" />
     <MESSAGE value="dodan je Readme.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="dodan je Readme.md" />
+    <MESSAGE value="tipovi" />
+    <option name="LAST_COMMIT_MESSAGE" value="tipovi" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

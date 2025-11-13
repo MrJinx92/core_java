@@ -1,4 +1,4 @@
-package com.academy;
+package com.academy.Three;
 
 public class DecimalniBrojevi {
     public static void main(String[] args) {

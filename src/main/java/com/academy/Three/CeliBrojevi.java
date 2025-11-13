@@ -1,4 +1,4 @@
-package com.academy;
+package com.academy.Three;
 
 public class CeliBrojevi {
     public static void main(String[] args) {
