@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a56d29e8-a6d3-412b-bae1-b8d5754e9e9e" name="Changes" comment="tipovi">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/CeliBrojevi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/Three/CeliBrojevi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Char.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/Three/Char.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/DecimalniBrojevi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/Three/DecimalniBrojevi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/academy/Four/FourDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763052263896</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="tipovi">
+      <option name="closed" value="true" />
+      <created>1763053187318</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1763053187318</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
