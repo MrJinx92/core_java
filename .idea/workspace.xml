@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a56d29e8-a6d3-412b-bae1-b8d5754e9e9e" name="Changes" comment="tipovi">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/academy/Four/FourDemo.java" afterDir="false" />
+    <list default="true" id="a56d29e8-a6d3-412b-bae1-b8d5754e9e9e" name="Changes" comment="predavanje 4">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/academy/Four/operator/Arithmetic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Three/CeliBrojevi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/Three/CeliBrojevi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,27 +47,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Demo (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Program.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.core_java [clean,install].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.core_java [compile].executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Projects/core java/src/main/java/com/itakademija/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Arithmetic.executor": "Run",
+    "Application.BooleanDemo.executor": "Debug",
+    "Application.CeliBrojevi.executor": "Run",
+    "Application.Demo (1).executor": "Run",
+    "Application.Demo.executor": "Run",
+    "Application.FourDemo.executor": "Run",
+    "Application.Program.executor": "Run",
+    "Maven.core_java [clean,install].executor": "Run",
+    "Maven.core_java [compile].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Projects/core java/src/main/java/com/itakademija/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RunManager" selected="Application.CeliBrojevi">
+}]]></component>
+  <component name="RunManager" selected="Application.Arithmetic">
+    <configuration name="Arithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.academy.Four.operator.Arithmetic" />
+      <module name="core_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.academy.Four.operator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BooleanDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.academy.Four.BooleanDemo" />
+      <module name="core_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.academy.Four.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CeliBrojevi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.academy.Three.CeliBrojevi" />
       <module name="core_java" />
@@ -102,6 +134,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Arithmetic" />
+        <item itemvalue="Application.BooleanDemo" />
         <item itemvalue="Application.CeliBrojevi" />
         <item itemvalue="Application.Demo (1)" />
         <item itemvalue="Application.Program" />
