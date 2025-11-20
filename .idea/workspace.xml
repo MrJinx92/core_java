@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a56d29e8-a6d3-412b-bae1-b8d5754e9e9e" name="Changes" comment="predavanje 4">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/academy/Four/operator/Arithmetic.java" afterDir="false" />
+    <list default="true" id="a56d29e8-a6d3-412b-bae1-b8d5754e9e9e" name="Changes" comment="added main function">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/academy/Assignment/ZapreminaValjka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/academy/Five/IfElseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/academy/Six/Six.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Three/CeliBrojevi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/Three/CeliBrojevi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +56,9 @@
     "Application.Demo (1).executor": "Run",
     "Application.Demo.executor": "Run",
     "Application.FourDemo.executor": "Run",
+    "Application.IfElseDemo.executor": "Run",
     "Application.Program.executor": "Run",
+    "Application.ZapreminaValjka.executor": "Run",
     "Maven.core_java [clean,install].executor": "Run",
     "Maven.core_java [compile].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -71,7 +74,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Arithmetic">
+  <component name="RunManager" selected="Application.ZapreminaValjka">
     <configuration name="Arithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.academy.Four.operator.Arithmetic" />
       <module name="core_java" />
@@ -111,20 +114,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Demo" />
+    <configuration name="IfElseDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.academy.Five.IfElseDemo" />
       <module name="core_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.academy.Five.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.academy.Program" />
+    <configuration name="ZapreminaValjka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.academy.Assignment.ZapreminaValjka" />
       <module name="core_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.academy.Three.*" />
+          <option name="PATTERN" value="com.academy.Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ZapreminaValjka" />
+        <item itemvalue="Application.IfElseDemo" />
         <item itemvalue="Application.Arithmetic" />
         <item itemvalue="Application.BooleanDemo" />
         <item itemvalue="Application.CeliBrojevi" />
-        <item itemvalue="Application.Demo (1)" />
-        <item itemvalue="Application.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +214,23 @@
       <option name="project" value="LOCAL" />
       <updated>1763053187318</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="predavanje 4">
+      <option name="closed" value="true" />
+      <created>1763397258722</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1763397258722</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added main function">
+      <option name="closed" value="true" />
+      <created>1763398218124</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1763398218124</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -227,7 +251,9 @@
     <MESSAGE value="Ignore .class" />
     <MESSAGE value="dodan je Readme.md" />
     <MESSAGE value="tipovi" />
-    <option name="LAST_COMMIT_MESSAGE" value="tipovi" />
+    <MESSAGE value="predavanje 4" />
+    <MESSAGE value="added main function" />
+    <option name="LAST_COMMIT_MESSAGE" value="added main function" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
